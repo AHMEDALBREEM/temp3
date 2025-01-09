@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: 
+
+# This file allows all web crawlers to access the site.
+# If you want to restrict access to certain paths, specify them here.
